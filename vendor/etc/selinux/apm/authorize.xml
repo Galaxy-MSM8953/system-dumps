@@ -2136,6 +2136,7 @@
             <package name="com.samsung.android.spayfw" seinfo="system"/>
             <package name="com.samsung.android.spayfw" seinfo="spay"/>
             <package name="com.samsung.android.lxd" seinfo="platform"/>
+            <package name="com.sec.indiaidentity" seinfo="platform"/>
         </method>
     </service>
 
@@ -2148,4 +2149,9 @@
         <method name="openCorpContactPicture"/>
     </service>
 
+    <service name="APMWhitelistAPPs">
+        <package name="com.ktcs.whowho" seinfo="apm"/>
+        <package name="com.whox2.lguplus" seinfo="apm"/>
+        <package name="com.google.android.apps.photos" seinfo="apm"/>
+    </service>
 </policy>

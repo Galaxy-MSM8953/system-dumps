@@ -5,8 +5,8 @@
 /system/app/YouTube/YouTube.apk
 /system/app/SamsungIMEv3.2_MASS/SamsungIMEv3.2_MASS.apk
 /system/app/AmazonMP3/AmazonMP3.apk
-/system/app/Notes/Notes.apk
 /system/app/Maps/Maps.apk
+/system/app/Notes/Notes.apk
 /system/app/Drive/Drive.apk
 /system/app/AmazonVideo_USA/AmazonVideo_USA.apk
 /system/app/AmazonPhotos_SPR/AmazonPhotos_SPR.apk
@@ -28,8 +28,8 @@
 /system/app/MDMApp/MDMApp.apk
 /system/app/GameOptimizer/GameOptimizer.apk
 /system/app/SprintCallerID/SprintCallerID.apk
-/system/app/SmartMirroring/SmartMirroring.apk
 /system/app/FBAppManager_SPR/FBAppManager_SPR.apk
+/system/app/SmartMirroring/SmartMirroring.apk
 /system/app/ANTPlusPlugins/ANTPlusPlugins.apk
 /system/app/SecurityLogAgent/SecurityLogAgent.apk
 /system/app/GoogleCalendarSyncAdapter/GoogleCalendarSyncAdapter.apk
@@ -53,6 +53,7 @@
 /system/app/GearManagerStub/GearManagerStub.apk
 /system/app/SecHTMLViewer/SecHTMLViewer.apk
 /system/app/SapaMonitor/SapaMonitor.apk
+/system/app/FBInstagram_stub_SPR/FBInstagram_stub_SPR.apk
 /system/app/WebViewGoogle/WebViewGoogle.apk
 /system/app/SPrintSpooler/SPrintSpooler.apk
 /system/app/EasymodeContactsWidget81/EasymodeContactsWidget81.apk
@@ -67,11 +68,10 @@
 /system/app/AllshareMediaShare/AllshareMediaShare.apk
 /system/app/EasterEgg/EasterEgg.apk
 /system/app/PhotoTable/PhotoTable.apk
-/system/app/FBInstagram_stub_SPR/FBInstagram_stub_SPR.apk
+/system/app/FBMessenger_stub_SPR/FBMessenger_stub_SPR.apk
+/system/app/Facebook_stub_SPR/Facebook_stub_SPR.apk
 /system/app/SecureFolderSetupPage/SecureFolderSetupPage.apk
 /system/app/SLocation/SLocation.apk
-/system/app/Facebook_stub_SPR/Facebook_stub_SPR.apk
-/system/app/FBMessenger_stub_SPR/FBMessenger_stub_SPR.apk
 /system/app/SapaAudioConnectionService/SapaAudioConnectionService.apk
 /system/app/DRParser/DRParser.apk
 /system/app/WlanTest/WlanTest.apk
@@ -144,8 +144,8 @@
 /system/priv-app/SecureFolder/SecureFolder.apk
 /system/priv-app/SamsungCamera8/SamsungCamera8.apk
 /system/priv-app/NetworkUI/NetworkUI.apk
-/system/priv-app/SmartManager_v5/SmartManager_v5.apk
 /system/priv-app/VisualVoicemailSpr/VisualVoicemailSpr.apk
+/system/priv-app/SmartManager_v5/SmartManager_v5.apk
 /system/priv-app/SecMyFiles2017/SecMyFiles2017.apk
 /system/priv-app/SetupWizard/SetupWizard.apk
 /system/priv-app/knoxanalyticsagent/knoxanalyticsagent.apk
@@ -178,13 +178,13 @@
 /system/priv-app/ConfigUpdater/ConfigUpdater.apk
 /system/priv-app/SAMSUNG_PLUS_STUB_NON_REMOVABLE/SAMSUNG_PLUS_STUB_NON_REMOVABLE.apk
 /system/priv-app/AssistantMenu_N/AssistantMenu_N.apk
+/system/priv-app/SprintHub/SprintHub.apk
 /system/priv-app/DocumentsUI/DocumentsUI.apk
 /system/priv-app/EmergencyInfo/EmergencyInfo.apk
 /system/priv-app/SamsungAccount_Star/SamsungAccount_Star.apk
 /system/priv-app/OmadmSpr/OmadmSpr.apk
 /system/priv-app/wssyncmlnps2/wssyncmlnps2.apk
 /system/priv-app/Telecom/Telecom.apk
-/system/priv-app/SprintHub/SprintHub.apk
 /system/priv-app/CMHProvider/CMHProvider.apk
 /system/priv-app/SPPPushClient/SPPPushClient.apk
 /system/priv-app/MsgCommService/MsgCommService.apk
@@ -194,7 +194,6 @@
 /system/priv-app/MobileID/MobileID.apk
 /system/priv-app/DeviceQualityAgent/DeviceQualityAgent.apk
 /system/priv-app/NSFusedLocation_v3.2/NSFusedLocation_v3.2.apk
-/system/priv-app/Fmm/Fmm.apk
 /system/priv-app/ManagedProvisioning/ManagedProvisioning.apk
 /system/priv-app/SamsungMagnifier3/SamsungMagnifier3.apk
 /system/priv-app/SVCAgent/SVCAgent.apk
@@ -234,8 +233,8 @@
 /system/priv-app/ModemServiceMode/ModemServiceMode.apk
 /system/priv-app/InputDevices/InputDevices.apk
 /system/priv-app/OmadmSprPhoneIF/OmadmSprPhoneIF.apk
-/system/priv-app/MtpApplication/MtpApplication.apk
 /system/priv-app/FBInstaller_SPR/FBInstaller_SPR.apk
+/system/priv-app/MtpApplication/MtpApplication.apk
 /system/priv-app/SecSettingsProvider/SecSettingsProvider.apk
 /system/priv-app/SettingsReceiver/SettingsReceiver.apk
 /system/priv-app/MtpDocumentsProvider/MtpDocumentsProvider.apk

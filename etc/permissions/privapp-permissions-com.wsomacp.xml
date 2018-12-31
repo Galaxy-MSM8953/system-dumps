@@ -21,6 +21,7 @@ applications that come with the platform
 -->
 <permissions>
     <privapp-permissions package="com.wsomacp">
+        <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
         <permission name="android.permission.REAL_GET_TASKS"/>
         <permission name="android.permission.WRITE_APN_SETTINGS"/>
         <permission name="com.sec.android.fotaclient.permission.FOTA"/>

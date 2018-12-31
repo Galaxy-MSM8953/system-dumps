@@ -12,6 +12,7 @@ libcdsprpc.so
 libexifa.so
 libjack.so
 libjpega.so
+libknox_remotedesktopclient.so
 libobject_detection_classification_snap.so
 libopensslsmime.so
 libqti-perfd-client.so
@@ -19,6 +20,7 @@ libquram.so
 libquramagifencoder.so
 libqvrcamera_client.so
 libqvrservice_client.so
+libremotedesktop_client.so
 libsaiv.so
 libsaiv_HprFace_FD_jni.so
 libsaiv_HprFace_LD_jni.so

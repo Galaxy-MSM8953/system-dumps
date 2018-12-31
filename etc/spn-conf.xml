@@ -97,6 +97,9 @@ examples:
     <spnOverride numeric="22803" fake_home_on="29502"/>
     <spnOverride numeric="29502" fake_home_on="22803"/>
 
+<!-- UPC -->
+    <spnOverride numeric="22853" fake_home_on="22801,22803"/>
+
 <!-- Czech -->
     <spnOverride numeric="23001" vowifi_opname="T-Mobile CZ WiFi"/>
 

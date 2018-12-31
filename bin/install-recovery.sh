@@ -1,6 +1,6 @@
 #!/system/bin/sh
-if ! applypatch -c EMMC:/dev/block/bootdevice/by-name/recovery:19280144:74e4d051d0b33ba4ec92d6a9ba0161e593c7bf40; then
-  applypatch EMMC:/dev/block/bootdevice/by-name/boot:15927568:9cf1554d467b60511f06ec9e45f680b302a73898 EMMC:/dev/block/bootdevice/by-name/recovery 74e4d051d0b33ba4ec92d6a9ba0161e593c7bf40 19280144 9cf1554d467b60511f06ec9e45f680b302a73898:/system/recovery-from-boot.p && log -t recovery "Installing new recovery image: succeeded" || echo 454 > /cache/fota/fota.status
+if ! applypatch -c EMMC:/dev/block/bootdevice/by-name/recovery:19280144:86f01cc21456da71e21f9f188fc65a18bb9bfaaa; then
+  applypatch EMMC:/dev/block/bootdevice/by-name/boot:15929616:47503a2e336cc0b37a1f1137c78ebeedcec02d73 EMMC:/dev/block/bootdevice/by-name/recovery 86f01cc21456da71e21f9f188fc65a18bb9bfaaa 19280144 47503a2e336cc0b37a1f1137c78ebeedcec02d73:/system/recovery-from-boot.p && log -t recovery "Installing new recovery image: succeeded" || echo 454 > /cache/fota/fota.status
 else
   log -t recovery "Recovery image already installed"
 fi
